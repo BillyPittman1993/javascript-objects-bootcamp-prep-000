@@ -1,5 +1,5 @@
 var playlist = {
-  bb: "breathe"
-  ke: "arms of sorrow"
+  bb: "breathe",
+  ke: "arms of sorrow",
   soty: "until the day I die"
 }
